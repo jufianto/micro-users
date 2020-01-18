@@ -5,7 +5,7 @@ it will use for almost application system with user managing
 
 ### `generate_uid(timestamp)`
 uid generate from timestamp in unixtimestamp with algorithm SHA1
-with format `28-4` character
+with format `5-35` character
 
 ## Table Design
 ### user
