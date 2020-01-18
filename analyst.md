@@ -36,6 +36,18 @@ with format `28-4` character
 * action test NOT NULL
 * status varchar(100) NULL
 
+### role
+* uid
+* role_name
+* information
+
+### user_role
+* uid
+* uid_user
+* uid_role
+* created_at
+* updated_at
+
 ## Action User 
 * login 
 * logout
