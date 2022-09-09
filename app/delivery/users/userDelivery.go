@@ -1,5 +1,7 @@
 package delivery
 
-type UserDelivery struct{}
+import "github.com/gin-gonic/gin"
 
-func (d *UserDelivery) Register()
+func RegisterUser(c *gin.Context) {
+
+}
