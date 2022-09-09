@@ -9,9 +9,15 @@ Microservices users build with golang
 | End Code      | `NULL`                |
 
 
+## How To RUN? 
+just doing 
+```
+go run cmd/main.go
+```
+
+
 ### My Documentation Idea 
 * [Analyst Data](https://github.com/jufianto/micro-users/blob/master/analyst.md)
 
 ### Probelms Technical 
 * `NOT YET FOUND`
-
